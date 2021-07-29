@@ -1,0 +1,16 @@
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/bin/Debug/net5.0/Abstract_Factory
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/bin/Debug/net5.0/Abstract_Factory.deps.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/bin/Debug/net5.0/Abstract_Factory.runtimeconfig.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/bin/Debug/net5.0/Abstract_Factory.runtimeconfig.dev.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/bin/Debug/net5.0/Abstract_Factory.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/bin/Debug/net5.0/ref/Abstract_Factory.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/bin/Debug/net5.0/Abstract_Factory.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/obj/Debug/net5.0/Abstract_Factory.csprojAssemblyReference.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/obj/Debug/net5.0/Abstract_Factory.GeneratedMSBuildEditorConfig.editorconfig
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/obj/Debug/net5.0/Abstract_Factory.AssemblyInfoInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/obj/Debug/net5.0/Abstract_Factory.AssemblyInfo.cs
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/obj/Debug/net5.0/Abstract_Factory.csproj.CoreCompileInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/obj/Debug/net5.0/Abstract_Factory.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/obj/Debug/net5.0/ref/Abstract_Factory.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/obj/Debug/net5.0/Abstract_Factory.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Abstract_Factory/Abstract_Factory/obj/Debug/net5.0/Abstract_Factory.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/bin/Debug/net5.0/Builder
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/bin/Debug/net5.0/Builder.deps.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/bin/Debug/net5.0/Builder.runtimeconfig.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/bin/Debug/net5.0/Builder.runtimeconfig.dev.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/bin/Debug/net5.0/Builder.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/bin/Debug/net5.0/ref/Builder.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/bin/Debug/net5.0/Builder.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/obj/Debug/net5.0/Builder.csprojAssemblyReference.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/obj/Debug/net5.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/obj/Debug/net5.0/Builder.AssemblyInfoInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/obj/Debug/net5.0/Builder.AssemblyInfo.cs
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/obj/Debug/net5.0/Builder.csproj.CoreCompileInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/obj/Debug/net5.0/Builder.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/obj/Debug/net5.0/ref/Builder.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/obj/Debug/net5.0/Builder.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/obj/Debug/net5.0/Builder.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ajFo5m+mc1YBkVVBM3ym5aL+g6jjWMvdJhNUbb9LftwGqINIwh/tSyiqRAGLjx0YQN5gP2aHvsbSPx4MOFBqXQ==",
+  "success": true,
+  "projectFilePath": "/home/radeonares32/Project/C#/Dessign_Pattern/Mediator/Mediator/Mediator.csproj",
+  "expectedPackageFiles": [
+    "/home/radeonares32/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/bin/Debug/net5.0/Decorator
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/bin/Debug/net5.0/Decorator.deps.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/bin/Debug/net5.0/Decorator.runtimeconfig.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/bin/Debug/net5.0/Decorator.runtimeconfig.dev.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/bin/Debug/net5.0/Decorator.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/bin/Debug/net5.0/ref/Decorator.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/bin/Debug/net5.0/Decorator.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/obj/Debug/net5.0/Decorator.csprojAssemblyReference.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/obj/Debug/net5.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/obj/Debug/net5.0/Decorator.AssemblyInfoInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/obj/Debug/net5.0/Decorator.AssemblyInfo.cs
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/obj/Debug/net5.0/Decorator.csproj.CoreCompileInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/obj/Debug/net5.0/Decorator.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/obj/Debug/net5.0/ref/Decorator.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/obj/Debug/net5.0/Decorator.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/obj/Debug/net5.0/Decorator.genruntimeconfig.cache

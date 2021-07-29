@@ -1,0 +1,16 @@
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/bin/Debug/net5.0/Observer
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/bin/Debug/net5.0/Observer.deps.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/bin/Debug/net5.0/Observer.runtimeconfig.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/bin/Debug/net5.0/Observer.runtimeconfig.dev.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/bin/Debug/net5.0/Observer.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/bin/Debug/net5.0/ref/Observer.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/bin/Debug/net5.0/Observer.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/obj/Debug/net5.0/Observer.csprojAssemblyReference.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/obj/Debug/net5.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/obj/Debug/net5.0/Observer.AssemblyInfoInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/obj/Debug/net5.0/Observer.AssemblyInfo.cs
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/obj/Debug/net5.0/Observer.csproj.CoreCompileInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/obj/Debug/net5.0/Observer.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/obj/Debug/net5.0/ref/Observer.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/obj/Debug/net5.0/Observer.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Observer/Observer/obj/Debug/net5.0/Observer.genruntimeconfig.cache

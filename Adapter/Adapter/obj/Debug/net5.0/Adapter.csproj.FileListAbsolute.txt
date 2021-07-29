@@ -1,0 +1,16 @@
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/bin/Debug/net5.0/Adapter
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/bin/Debug/net5.0/Adapter.deps.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/bin/Debug/net5.0/Adapter.runtimeconfig.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/bin/Debug/net5.0/Adapter.runtimeconfig.dev.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/bin/Debug/net5.0/Adapter.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/bin/Debug/net5.0/ref/Adapter.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/bin/Debug/net5.0/Adapter.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/obj/Debug/net5.0/Adapter.csprojAssemblyReference.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/obj/Debug/net5.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/obj/Debug/net5.0/Adapter.AssemblyInfoInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/obj/Debug/net5.0/Adapter.AssemblyInfo.cs
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/obj/Debug/net5.0/Adapter.csproj.CoreCompileInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/obj/Debug/net5.0/Adapter.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/obj/Debug/net5.0/ref/Adapter.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/obj/Debug/net5.0/Adapter.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Adapter/Adapter/obj/Debug/net5.0/Adapter.genruntimeconfig.cache

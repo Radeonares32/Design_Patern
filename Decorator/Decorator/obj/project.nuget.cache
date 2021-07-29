@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1o8vkNkUUA4C+sbMvm++PLKG2YxrBXmQmTavZDhhB03iBhTPttewvx5/CszOLQ/ls32swZOmyGZoeltKkgFgOQ==",
+  "success": true,
+  "projectFilePath": "/home/radeonares32/Project/C#/Dessign_Pattern/Decorator/Decorator/Decorator.csproj",
+  "expectedPackageFiles": [
+    "/home/radeonares32/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

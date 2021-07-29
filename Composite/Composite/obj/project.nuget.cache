@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mRxMFGZ5zPJf+JHsePbgWFdCbCpAU3a0S8wHKdxP05gzCaG0Cqf3EX0O97Gwh/vs9Qxrfp7R7ktcvB1MybvbkQ==",
+  "success": true,
+  "projectFilePath": "/home/radeonares32/Project/C#/Dessign_Pattern/Composite/Composite/Composite.csproj",
+  "expectedPackageFiles": [
+    "/home/radeonares32/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

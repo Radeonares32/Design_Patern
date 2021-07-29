@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7HUzLO4yg9YFsz7iIv0Y2lXaW5dLRTUfecUO1O8TAYKy6y9ILaBh1Ixn7uDZJKitZ8apkNY8dDKFrilwo1Pcag==",
+  "success": true,
+  "projectFilePath": "/home/radeonares32/Project/C#/Dessign_Pattern/Chain_of_Responsibility/Chain_of_Responsibility/Chain_of_Responsibility.csproj",
+  "expectedPackageFiles": [
+    "/home/radeonares32/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

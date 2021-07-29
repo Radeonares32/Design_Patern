@@ -1,0 +1,16 @@
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/bin/Debug/net5.0/Strategy
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/bin/Debug/net5.0/Strategy.deps.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/bin/Debug/net5.0/Strategy.runtimeconfig.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/bin/Debug/net5.0/Strategy.runtimeconfig.dev.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/bin/Debug/net5.0/Strategy.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/bin/Debug/net5.0/ref/Strategy.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/bin/Debug/net5.0/Strategy.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/obj/Debug/net5.0/Strategy.csprojAssemblyReference.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/obj/Debug/net5.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/obj/Debug/net5.0/Strategy.AssemblyInfoInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/obj/Debug/net5.0/Strategy.AssemblyInfo.cs
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/obj/Debug/net5.0/Strategy.csproj.CoreCompileInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/obj/Debug/net5.0/Strategy.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/obj/Debug/net5.0/ref/Strategy.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/obj/Debug/net5.0/Strategy.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Strategy/Strategy/obj/Debug/net5.0/Strategy.genruntimeconfig.cache

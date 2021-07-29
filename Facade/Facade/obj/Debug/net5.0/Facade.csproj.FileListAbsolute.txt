@@ -1,0 +1,16 @@
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/bin/Debug/net5.0/Facade
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/bin/Debug/net5.0/Facade.deps.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/bin/Debug/net5.0/Facade.runtimeconfig.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/bin/Debug/net5.0/Facade.runtimeconfig.dev.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/bin/Debug/net5.0/Facade.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/bin/Debug/net5.0/ref/Facade.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/bin/Debug/net5.0/Facade.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/obj/Debug/net5.0/Facade.csprojAssemblyReference.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/obj/Debug/net5.0/Facade.GeneratedMSBuildEditorConfig.editorconfig
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/obj/Debug/net5.0/Facade.AssemblyInfoInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/obj/Debug/net5.0/Facade.AssemblyInfo.cs
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/obj/Debug/net5.0/Facade.csproj.CoreCompileInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/obj/Debug/net5.0/Facade.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/obj/Debug/net5.0/ref/Facade.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/obj/Debug/net5.0/Facade.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/obj/Debug/net5.0/Facade.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/bin/Debug/net5.0/Factory
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/bin/Debug/net5.0/Factory.deps.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/bin/Debug/net5.0/Factory.runtimeconfig.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/bin/Debug/net5.0/Factory.runtimeconfig.dev.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/bin/Debug/net5.0/Factory.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/bin/Debug/net5.0/ref/Factory.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/bin/Debug/net5.0/Factory.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/obj/Debug/net5.0/Factory.csprojAssemblyReference.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/obj/Debug/net5.0/Factory.GeneratedMSBuildEditorConfig.editorconfig
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/obj/Debug/net5.0/Factory.AssemblyInfoInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/obj/Debug/net5.0/Factory.AssemblyInfo.cs
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/obj/Debug/net5.0/Factory.csproj.CoreCompileInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/obj/Debug/net5.0/Factory.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/obj/Debug/net5.0/ref/Factory.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/obj/Debug/net5.0/Factory.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/obj/Debug/net5.0/Factory.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dnv1A1H4Fx1uRqY/e+sV48XsZUcGAUIDIS0BrCgfA3NhLs0Kl34bCk30digsOsESHs3MjVz3SnvW3hlB60rq+g==",
+  "success": true,
+  "projectFilePath": "/home/radeonares32/Project/C#/Dessign_Pattern/Proxy/Proxy/Proxy.csproj",
+  "expectedPackageFiles": [
+    "/home/radeonares32/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

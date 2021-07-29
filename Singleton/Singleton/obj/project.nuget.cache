@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6zT5ndKcVXIkIfTX7I4sMMG3oWFmk2ZHp3e1/cwUmAyf5irA2aVCuqRbKsxF1SFHoKZ9+lKemCSp6PV3yae9TQ==",
+  "success": true,
+  "projectFilePath": "/home/radeonares32/Project/C#/Dessign_Pattern/Singleton/Singleton/Singleton.csproj",
+  "expectedPackageFiles": [
+    "/home/radeonares32/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/bin/Debug/net5.0/Prototype
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/bin/Debug/net5.0/Prototype.deps.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/bin/Debug/net5.0/Prototype.runtimeconfig.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/bin/Debug/net5.0/Prototype.runtimeconfig.dev.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/bin/Debug/net5.0/Prototype.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/bin/Debug/net5.0/ref/Prototype.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/bin/Debug/net5.0/Prototype.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/obj/Debug/net5.0/Prototype.csprojAssemblyReference.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/obj/Debug/net5.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/obj/Debug/net5.0/Prototype.AssemblyInfoInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/obj/Debug/net5.0/Prototype.AssemblyInfo.cs
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/obj/Debug/net5.0/Prototype.csproj.CoreCompileInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/obj/Debug/net5.0/Prototype.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/obj/Debug/net5.0/ref/Prototype.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/obj/Debug/net5.0/Prototype.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Prototype/Prototype/obj/Debug/net5.0/Prototype.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TTSck8OKvrz38Nb9H3Eiw9gWRIKo6hm2Yd0VdS0NzxK5Q/Y8Hb54NEYq41Z+66aIcREtYbDT1/Y+GBtgeCBwfw==",
+  "success": true,
+  "projectFilePath": "/home/radeonares32/Project/C#/Dessign_Pattern/Factory/Factory/Factory.csproj",
+  "expectedPackageFiles": [
+    "/home/radeonares32/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

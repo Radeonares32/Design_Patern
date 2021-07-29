@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JNXHM0aS/JjrHjpReW6jADuBGiu+UzS/n+64FHN64usZX8y6/DZEM6aoT2scNK9Awc+efxHD10IinY4oLWJ6Ow==",
+  "success": true,
+  "projectFilePath": "/home/radeonares32/Project/C#/Dessign_Pattern/Builder/Builder/Builder.csproj",
+  "expectedPackageFiles": [
+    "/home/radeonares32/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

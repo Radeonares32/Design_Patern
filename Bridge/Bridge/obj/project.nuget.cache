@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1tJHWHynPuP2ejQU63xUR3af6tUOybE7GfDNUbWXUnWiO4T1wXbWyrMp1ncEWgP+AULUawX2kPN/RVhSkmgOXA==",
+  "success": true,
+  "projectFilePath": "/home/radeonares32/Project/C#/Dessign_Pattern/Bridge/Bridge/Bridge.csproj",
+  "expectedPackageFiles": [
+    "/home/radeonares32/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

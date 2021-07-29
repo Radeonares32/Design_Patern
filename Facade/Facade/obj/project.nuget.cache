@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BhTwNNM82vhtq7e/mxPwRFOk8tJEfE8Id+n8tz0G2zbgCBiCp2dC1x+t+Hu6zqXMyu8pgcEsQaVRxLMNWiQkoQ==",
+  "success": true,
+  "projectFilePath": "/home/radeonares32/Project/C#/Dessign_Pattern/Facade/Facade/Facade.csproj",
+  "expectedPackageFiles": [
+    "/home/radeonares32/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
