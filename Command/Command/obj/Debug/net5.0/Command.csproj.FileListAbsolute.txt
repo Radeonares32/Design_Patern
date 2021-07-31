@@ -1,0 +1,16 @@
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/bin/Debug/net5.0/Command
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/bin/Debug/net5.0/Command.deps.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/bin/Debug/net5.0/Command.runtimeconfig.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/bin/Debug/net5.0/Command.runtimeconfig.dev.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/bin/Debug/net5.0/Command.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/bin/Debug/net5.0/ref/Command.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/bin/Debug/net5.0/Command.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/obj/Debug/net5.0/Command.csprojAssemblyReference.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/obj/Debug/net5.0/Command.GeneratedMSBuildEditorConfig.editorconfig
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/obj/Debug/net5.0/Command.AssemblyInfoInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/obj/Debug/net5.0/Command.AssemblyInfo.cs
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/obj/Debug/net5.0/Command.csproj.CoreCompileInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/obj/Debug/net5.0/Command.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/obj/Debug/net5.0/ref/Command.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/obj/Debug/net5.0/Command.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Command/Command/obj/Debug/net5.0/Command.genruntimeconfig.cache
