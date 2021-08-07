@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E60wFCZFSydrgj7h1TM9/up2/QgcSNmMn1/A8jxmOOJJ+rw4Wt4bvxHBMRdWWAcwsoLJ3a3V6WJvh+M4EcxqGQ==",
+  "success": true,
+  "projectFilePath": "/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/Visitor.csproj",
+  "expectedPackageFiles": [
+    "/home/radeonares32/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

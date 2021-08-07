@@ -1,0 +1,16 @@
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/bin/Debug/net5.0/Visitor
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/bin/Debug/net5.0/Visitor.deps.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/bin/Debug/net5.0/Visitor.runtimeconfig.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/bin/Debug/net5.0/Visitor.runtimeconfig.dev.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/bin/Debug/net5.0/Visitor.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/bin/Debug/net5.0/ref/Visitor.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/bin/Debug/net5.0/Visitor.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/obj/Debug/net5.0/Visitor.csprojAssemblyReference.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/obj/Debug/net5.0/Visitor.GeneratedMSBuildEditorConfig.editorconfig
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/obj/Debug/net5.0/Visitor.AssemblyInfoInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/obj/Debug/net5.0/Visitor.AssemblyInfo.cs
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/obj/Debug/net5.0/Visitor.csproj.CoreCompileInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/obj/Debug/net5.0/Visitor.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/obj/Debug/net5.0/ref/Visitor.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/obj/Debug/net5.0/Visitor.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Visitor/Visitor/obj/Debug/net5.0/Visitor.genruntimeconfig.cache
