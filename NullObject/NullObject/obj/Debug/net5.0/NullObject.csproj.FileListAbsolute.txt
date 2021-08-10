@@ -1,0 +1,16 @@
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/bin/Debug/net5.0/NullObject
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/bin/Debug/net5.0/NullObject.deps.json
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/bin/Debug/net5.0/NullObject.runtimeconfig.json
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/bin/Debug/net5.0/NullObject.runtimeconfig.dev.json
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/bin/Debug/net5.0/NullObject.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/bin/Debug/net5.0/ref/NullObject.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/bin/Debug/net5.0/NullObject.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/obj/Debug/net5.0/NullObject.csprojAssemblyReference.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/obj/Debug/net5.0/NullObject.GeneratedMSBuildEditorConfig.editorconfig
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/obj/Debug/net5.0/NullObject.AssemblyInfoInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/obj/Debug/net5.0/NullObject.AssemblyInfo.cs
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/obj/Debug/net5.0/NullObject.csproj.CoreCompileInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/obj/Debug/net5.0/NullObject.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/obj/Debug/net5.0/ref/NullObject.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/obj/Debug/net5.0/NullObject.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/NullObject/NullObject/obj/Debug/net5.0/NullObject.genruntimeconfig.cache

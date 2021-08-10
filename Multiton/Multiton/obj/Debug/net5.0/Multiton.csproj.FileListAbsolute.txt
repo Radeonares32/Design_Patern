@@ -1,0 +1,16 @@
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/bin/Debug/net5.0/Multiton
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/bin/Debug/net5.0/Multiton.deps.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/bin/Debug/net5.0/Multiton.runtimeconfig.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/bin/Debug/net5.0/Multiton.runtimeconfig.dev.json
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/bin/Debug/net5.0/Multiton.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/bin/Debug/net5.0/ref/Multiton.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/bin/Debug/net5.0/Multiton.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/obj/Debug/net5.0/Multiton.csprojAssemblyReference.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/obj/Debug/net5.0/Multiton.GeneratedMSBuildEditorConfig.editorconfig
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/obj/Debug/net5.0/Multiton.AssemblyInfoInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/obj/Debug/net5.0/Multiton.AssemblyInfo.cs
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/obj/Debug/net5.0/Multiton.csproj.CoreCompileInputs.cache
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/obj/Debug/net5.0/Multiton.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/obj/Debug/net5.0/ref/Multiton.dll
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/obj/Debug/net5.0/Multiton.pdb
+/home/radeonares32/Project/C#/Dessign_Pattern/Multiton/Multiton/obj/Debug/net5.0/Multiton.genruntimeconfig.cache
